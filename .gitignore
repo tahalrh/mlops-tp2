@@ -1,0 +1,18 @@
+# Environnement virtuel Python
+.venv/
+venv/
+
+# Caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# MLflow runs
+mlruns/
+.trash/
+
+# IDE et OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
